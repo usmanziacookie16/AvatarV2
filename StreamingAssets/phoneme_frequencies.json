@@ -1,0 +1,42 @@
+{
+  "phonemes": [
+
+    { "phoneme": "A", "frequencyRange": [500, 900] },
+    { "phoneme": "E", "frequencyRange": [600, 1000] },
+    { "phoneme": "I", "frequencyRange": [500, 900] },
+    { "phoneme": "O", "frequencyRange": [400, 800] },
+    { "phoneme": "U", "frequencyRange": [300, 700] },
+    { "phoneme": "EE", "frequencyRange": [2500, 3500] },
+
+
+    { "phoneme": "B", "frequencyRange": [80, 250] },
+    { "phoneme": "M", "frequencyRange": [100, 350] },
+    { "phoneme": "P", "frequencyRange": [150, 300] },
+    { "phoneme": "D", "frequencyRange": [180, 450] },
+    { "phoneme": "G", "frequencyRange": [100, 300] },
+    { "phoneme": "K", "frequencyRange": [180, 500] },
+    { "phoneme": "N", "frequencyRange": [100, 400] },
+
+
+    { "phoneme": "S", "frequencyRange": [300, 600] },
+    { "phoneme": "SH", "frequencyRange": [1500, 2500] },
+    { "phoneme": "CH", "frequencyRange": [1200, 1800] },
+    { "phoneme": "J", "frequencyRange": [700, 1200] },
+    { "phoneme": "F", "frequencyRange": [1000, 2000] },
+    { "phoneme": "V", "frequencyRange": [1500, 2500] },
+    { "phoneme": "TH", "frequencyRange": [1200, 1800] },
+
+
+    { "phoneme": "L", "frequencyRange": [400, 800] },
+    { "phoneme": "R", "frequencyRange": [1000, 1500] },
+    { "phoneme": "W", "frequencyRange": [100, 350] },
+    { "phoneme": "Y", "frequencyRange": [300, 600] },
+
+
+    { "phoneme": "C", "frequencyRange": [200, 500] },
+    { "phoneme": "T", "frequencyRange": [180, 400] },
+    { "phoneme": "X", "frequencyRange": [250, 500] },
+    { "phoneme": "Z", "frequencyRange": [350, 500] },
+    { "phoneme": "Q", "frequencyRange": [200, 600] }
+  ]
+}
